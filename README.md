@@ -18,7 +18,7 @@ OpenCV
 Matplotlib
 To run the code:
 
-Download the dataset from https://www.kaggle.com/playlist/men-vs-women-face-detection.
+Download the dataset.
 Extract the dataset and update the path in the code accordingly.
 Install the required libraries mentioned above.
 Run the code in any Python IDE or via command line.
